@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExposedDropDownMenu</string>
+
+    <array name="languages">
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Kannada</item>
+        <item>Telugu</item>
+    </array>
+</resources>
